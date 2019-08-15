@@ -1,6 +1,6 @@
 ## labs-chickenbot
 
-Optimized for python 3.6 - Language changes subjected
+Optimized for python 3.6 - [Language changes subjected](README.md#notes)
 
 This project aims in creating a chatbot for '[Museu da Pessoa](http://www.museudapessoa.net)'. 
 The idea is use Telegram/WhatsApp/Facebook APIs to get all incoming messages, process it with
@@ -11,15 +11,15 @@ as a person from the Museum's collection.
 
 ### Credits and Support
 
-- Bruno Paes
-- Fernando Sinigalia
-- Guilherme Heitzmann
-- Leonado Briotto
+- [Bruno Paes](https://github.com/Brunopaes)
+- [Fernando Sinigaglia](https://github.com/FernandoSini)
+- [Guilherme Heitzmann](https://github.com/PhoenixBRnnf)
+- [Leonado Briotto](https://github.com/briottoleo)
 - Leonardo Messias
 
 #### Advisors and Supporters
-- André Insardi
-- Carlos Rafael
+- [André Insardi](https://github.com/andreinsardi)
+- [Carlos Rafael](https://github.com/carlosrafaelgn)
 - Flávio Marques
 
 -----------------------
@@ -85,7 +85,7 @@ For running it, on the ``~/src`` directory just run the follow command:
 #### Notes
 
 - Instead of python, Node JS may be used.
-- Chickenbot is just a provisionary name
+- Chickenbot is just a provisional name
 
 ---------------
 
