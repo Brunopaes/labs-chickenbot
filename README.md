@@ -84,7 +84,7 @@ For running it, on the ``~/src`` directory just run the follow command:
 
 #### Notes
 
-- Instead of python, Node JS may be used.
+- Instead of python, dotnet/C# or Node JS may be used.
 - Chickenbot is just a provisional name
 
 ---------------
