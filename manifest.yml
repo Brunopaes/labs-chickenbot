@@ -1,0 +1,4 @@
+ applications:
+ - name: labs-chickenbot
+   random-route: true
+   memory: 1024M

@@ -1,0 +1,11 @@
+C:\Users\11620317\Downloads\Projeto\ConsoleTelegram\obj\Debug\netcoreapp2.1\ConsoleTelegram.csproj.CoreCompileInputs.cache
+C:\Users\11620317\Downloads\Projeto\ConsoleTelegram\obj\Debug\netcoreapp2.1\ConsoleTelegram.AssemblyInfoInputs.cache
+C:\Users\11620317\Downloads\Projeto\ConsoleTelegram\obj\Debug\netcoreapp2.1\ConsoleTelegram.AssemblyInfo.cs
+C:\Users\11620317\Downloads\Projeto\ConsoleTelegram\bin\Debug\netcoreapp2.1\ConsoleTelegram.deps.json
+C:\Users\11620317\Downloads\Projeto\ConsoleTelegram\bin\Debug\netcoreapp2.1\ConsoleTelegram.runtimeconfig.json
+C:\Users\11620317\Downloads\Projeto\ConsoleTelegram\bin\Debug\netcoreapp2.1\ConsoleTelegram.runtimeconfig.dev.json
+C:\Users\11620317\Downloads\Projeto\ConsoleTelegram\bin\Debug\netcoreapp2.1\ConsoleTelegram.dll
+C:\Users\11620317\Downloads\Projeto\ConsoleTelegram\obj\Debug\netcoreapp2.1\ConsoleTelegram.csprojAssemblyReference.cache
+C:\Users\11620317\Downloads\Projeto\ConsoleTelegram\bin\Debug\netcoreapp2.1\ConsoleTelegram.pdb
+C:\Users\11620317\Downloads\Projeto\ConsoleTelegram\obj\Debug\netcoreapp2.1\ConsoleTelegram.dll
+C:\Users\11620317\Downloads\Projeto\ConsoleTelegram\obj\Debug\netcoreapp2.1\ConsoleTelegram.pdb
